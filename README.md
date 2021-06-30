@@ -23,5 +23,5 @@ Nuclear tracking data should be arranged as per 'Example_data.xls'. Note that *x
 
 
 ### Contributors:
-Nozie Dominic Aghaizu, Martha Rose Robinson, Paul Vincent Waldron
+Nozie Dominic Aghaizu, Martha Rose Robinson, Matteo Carandini, Paul Vincent Waldron
 
