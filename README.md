@@ -16,3 +16,5 @@ Paper abstract:
 Nuclear tracking data should be arranged as per 'Example_data.xls'. Note that *xyzt* information is provided, but average MSD calculation within this code only requires *zt* information.
 
 
+### Running the code:
+
