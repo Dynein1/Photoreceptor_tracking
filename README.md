@@ -5,7 +5,7 @@
 This repository contains the Matlab package used for analysing and quantifying apico-basally directed photoreceptor nuclear motility in the developing mouse retina. Nuclear trajectory data need to have been previously generated, for instance using IMARIS software (Bitplane). The Matlab package will generate the following data output: average mean squared displacement (AvMSD), trajectory duration, z positional information, instantaneous velocity, instantaneous acceleration, nuclear trajectories exhibiting above threshold velocities (e.g. rapid apical nuclear translocation).
 
 
-This code accompanies the paper:
+This package accompanies the paper:
 
 ### Aghaizu, N.D., Warre-Cornish, K.M., Robinson, M.R., Waldron, P.V., Maswood, R.N., Smith, A.J., Ali, R.R., Pearson, R.R. (2021). Repeated nuclear translocations underlie photoreceptor positioning and lamination of the outer nuclear layer within the mammalian retina. Cell Reports (in press)
 
