@@ -16,7 +16,7 @@ Paper abstract:
 
 ### Data preparation:
 
-Nuclear tracking data should be arranged as per 'Example_data.xls'. Note that *xyzt* information is provided, but average MSD calculation within this code only requires *zt* information. The Matlab package is tailored towards an acquisition interval of 10min, but can be adjusted accordingly.
+Nuclear tracking data should be arranged as per 'Example_data.xls'. Note that *xyzt* information is provided in 'Example_data.xls', but average MSD calculation within this code only requires *zt* information. The Matlab package is tailored towards an acquisition interval of 10min, but can be adjusted accordingly.
 
 
 ### Running the code:
