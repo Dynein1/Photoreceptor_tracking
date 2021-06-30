@@ -13,6 +13,6 @@ Paper abstract:
 
 ### Data preparation:
 
-For average MSD calculations, nuclear tracking data should be arranged as per (Example_data.xls)
+For average MSD calculations, nuclear tracking data should be arranged as per 'Example_data.xls'. Note that *xyzt* information is provided, but average MSD calculation within this code only requires *zt* information.
 
 
