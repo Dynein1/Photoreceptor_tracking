@@ -25,8 +25,12 @@ Nuclear tracking data should be arranged as per 'Example_data.xls'. Note that *x
 
 2. Run 'ztrajectory_gen.m' to convert array trajectory data into matrix.
 
-3. Run 'Trajectory_analysis.m' for further kinetic analyses of trajectory data generated in (1.) and (2.). Note that further instructions are provided to identify rapid apical translocations within trajectories (lines 96-109).
+3. Run 'Trajectory_analysis.m' for further kinetic analyses (positional changes, instantaneous velocity, instantaneous acceleration, rapid apical translocations) of trajectory data generated in (1.) and (2.). Note that further instructions are provided to identify rapid apical translocations within trajectories (lines 96-109).
 
 ### Contributors:
 Nozie Dominic Aghaizu, Martha Rose Robinson, Matteo Carandini, Paul Vincent Waldron
 
+
+Use/modification of Matlab code/scripts contained herein is permitted but requires citation:
+
+Aghaizu et al. (2021). Repeated nuclear translocations underlie photoreceptor positioning and lamination of the outer nuclear layer within the mammalian retina. Cell Reports (in press)
