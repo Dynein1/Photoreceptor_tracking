@@ -21,7 +21,7 @@ Nuclear tracking data should be arranged as per 'Example_data.xls'. Note that *x
 
 ### Running the code:
 
-1. Run 'MSDforztrackingdata.m' to read-in trajectory data and to calculate AvMSD & standard error values. Source trajectory file (.xls format) and range of trajectories to be analysed from source file (line 134) need to be specified.
+1. Run 'MSDforztrackingdata.m' to read-in trajectory data and to calculate AvMSD & standard error values. The range of trajectories to be analysed from source file (line 134) needs to be specified (e.g.: 1, 2, 3,..., n). User will be prompted to navigate to source trajectory file (.xls format) upon initiation of the script.
 
 2. Run 'ztrajectory_gen.m' to convert array trajectory data into matrix 'ztrajectories'.
 
