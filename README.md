@@ -28,7 +28,7 @@ Nuclear tracking data should be arranged as per 'Example_data.xls'. Note that *x
 3. Run 'Trajectory_analysis.m' for further kinetic analyses (positional changes, instantaneous velocity, instantaneous acceleration, rapid apical translocations) of trajectory data generated in (1.) and (2.). Note that further instructions are provided to identify rapid apical translocations (jx) within trajectories (lines 96-109).
 
 ### Contributors:
-Nozie Dominic Aghaizu, Martha Rose Robinson, Matteo Carandini, Paul Vincent Waldron
+Nozie Dominic Aghaizu, Martha Rose Robinson, Matteo Carandini, Paul Vincent Waldron, Rachael Pearson
 
 
 
