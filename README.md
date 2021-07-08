@@ -13,6 +13,8 @@ Paper abstract:
 
 > In development, almost all stratified neurons must migrate from their birthplace to the appropriate neural layer. Photoreceptors reside in the most apical layer    of the retina, near their place of birth. Whether photoreceptors require migratory events for fine-positioning and/or retention within this layer is not well        understood. Here we show that photoreceptor nuclei of the developing mouse retina cyclically exhibit rapid, dynein 1-dependent, translocation towards the apical      surface, before moving more slowly in the basal direction, likely due to passive displacement by neighbouring retinal nuclei. Attenuating dynein 1 function in rod      photoreceptors results in their ectopic basal displacement into the outer plexiform layer and inner nuclear layer. Synapse formation is also compromised in these       displaced cells. We propose that repeated, apically-directed nuclear translocation events are necessary to ensure retention of post-mitotic photoreceptors within the   emerging outer nuclear layer during retinogenesis, which is critical for correct neuronal lamination.
 
+![alt text](https://github.com/RPearsonLab/Photoreceptor_tracking/blob/main/Graphical abstract.tif?raw=true)
+
 
 ### Data preparation:
 
