@@ -42,4 +42,4 @@ Nozie Dominic Aghaizu, Martha Rose Robinson, Matteo Carandini, Paul Vincent Wald
 
 Use/modification of Matlab code/scripts contained herein is permitted but requires citation:
 
-Aghaizu et al. (2021). Repeated nuclear translocations underlie photoreceptor positioning and lamination of the outer nuclear layer within the mammalian retina. Cell Reports (in press)
+Aghaizu et al. (2021). Repeated nuclear translocations underlie photoreceptor positioning and lamination of the outer nuclear layer within the mammalian retina. Cell Reports, 36, 109461
