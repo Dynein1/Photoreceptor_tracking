@@ -7,7 +7,8 @@ This repository contains the Matlab package used for analysing and quantifying a
 
 This package accompanies the paper:
 
-### Aghaizu, N.D., Warre-Cornish, K.M., Robinson, M.R., Waldron, P.V., Maswood, R.N., Smith, A.J., Ali, R.R., Pearson, R.R. (2021). Repeated nuclear translocations underlie photoreceptor positioning and lamination of the outer nuclear layer within the mammalian retina. Cell Reports (in press)
+### Aghaizu, N.D., Warre-Cornish, K.M., Robinson, M.R., Waldron, P.V., Maswood, R.N., Smith, A.J., Ali, R.R., Pearson, R.R. (2021). Repeated nuclear translocations underlie photoreceptor positioning and lamination of the outer nuclear layer within the mammalian retina. Cell Reports, 36, 109461 
+DOI: https://doi.org/10.1016/j.celrep.2021.109461
 
 Paper abstract:
 
